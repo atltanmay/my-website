@@ -6,6 +6,6 @@
    
    -    ![Fix it quick!Tulorials(1)](https://github.com/atltanmay/my-website/blob/main/Cloud.jpg)
 2. Types of Cloud Computing.
-   - Public Cloud :- Pay-As-Serve.
-   - Private Cloud
+   - Public Cloud 
+   - Private Cloud 
    - Hybrid Cloud
