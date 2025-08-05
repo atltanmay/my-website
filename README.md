@@ -8,6 +8,7 @@
    
    -    ![Fix it quick!Tulorials(1)](https://github.com/atltanmay/my-website/blob/main/Cloud.jpg)
 2. Types of Cloud Computing.
-   - Public Cloud 
+   - Public Cloud :- Public clouds are popular because they offer scalability, cost-effectiveness,
+     and reduced management overhead compared to traditional IT infrastructure
    - Private Cloud 
    - Hybrid Cloud
