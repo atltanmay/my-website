@@ -3,4 +3,5 @@
    - cloud computing means storing and accessing the data
    - Cloud computing are the Remote Server
    -  Cloud Computing image:
-      ![Fix it quick!Tulorials(1)](https://github.com/atltanmay/my-website/blob/main/Cloud.jpg)
+   
+   -    ![Fix it quick!Tulorials(1)](https://github.com/atltanmay/my-website/blob/main/Cloud.jpg)
